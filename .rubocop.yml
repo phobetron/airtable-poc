@@ -1,0 +1,18 @@
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Metrics/BlockLength:
+  Exclude:
+    - '*.gemspec'
+    - 'spec/**/*'
+
+Metrics/LineLength:
+  Max: 100
+  Exclude:
+    - 'spec/**/*'
+
+Lint/SuppressedException:
+  AllowComments: true

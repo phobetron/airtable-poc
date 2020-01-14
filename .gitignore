@@ -1,0 +1,13 @@
+._*
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+.bundle
+.byebug_history
+
+bin
+data
+coverage
